@@ -5,6 +5,7 @@
   - [CSS Specificity](1.1-html-css.md#css-specificity)
   - [!important](1.1-html-css.md#important)
   - [CSS Source Order](1.1-html-css.md#css-source-order)
+  - [CSS Combinators](1.1-html-css.md#css-combinators)
   - [Additional Resources](1.1-html-css.md#additional-resources)
 - [1.2 - Javascript/jQuery](1.2-javascript-jquery.md)
   - [Adding Javascript in a Theme or Module](1.2-javascript-jquery.md#adding-javascript-libraries)
